@@ -20,7 +20,7 @@ This project analyzes and visualizes global COVID-19 data sourced from Our World
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/COVID-19-Global-Data-Tracker.git
+   git clone https://github.com/Humphrey97-dev/Week_8_Python_Final_Project.git
 ## Insights and Reflections
 1. Continental Impact: Different continents show varying levels of COVID-19 cases per million population, with some regions significantly more affected, reflecting different pandemic trajectories and responses.
 
